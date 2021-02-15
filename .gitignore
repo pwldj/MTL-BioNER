@@ -1,0 +1,22 @@
+#io files
+/predict*
+/model_dir/*
+/cache/*
+/data/*
+#temp files or irrelevant files
+/*.zip
+/*.txt
+/*.pdf
+/*.csv
+/*.xls
+#multi task code
+/crf_util_multi_task.py
+/run_crf_multi_task.py
+#test codes
+/sbatch.sh
+/propre.py
+/fun.py
+#IDE files
+/.idea
+/.vscode
+/__pycache__
